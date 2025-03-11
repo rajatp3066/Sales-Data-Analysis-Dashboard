@@ -61,7 +61,7 @@ The dataset includes sales transaction records with the following key fields:
 ### 📌 **City-Wise Sales Distribution**  
 🌍 **Highest revenue from San Francisco, Los Angeles, and New York City.**  
 
-![City Sales](images/Citywise sales.jpg)  
+![City Sales](images/https://drive.google.com/file/d/1UuL-UCamqEEXZlYrxb_teac3FBmqQzeg/view?usp=sharing)  
 
 ---
 
