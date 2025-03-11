@@ -53,18 +53,20 @@ The dataset includes sales transaction records with the following key fields:
 
 ![Sales Trend](https://drive.google.com/uc?export=view&id=1oy-IzI-h0BI-lwOYhBb8dBgfU3D5aPSq)
 
-
 ### 📌 **Top 7 Products by Sales**  
 🔹 **Best-selling products:** MacBook Pro, iPhone, ThinkPad Laptop, Google Pixel, 4K Monitors.  
 
-![Top Products](images/top_products.png)  
+![Top Products](https://drive.google.com/uc?export=view&id=1TzN5ywuZZHDOzP5aLY8V0QGmCZXxtbl1)
+
 
 ### 📌 **City-Wise Sales Distribution**  
 🌍 **Highest revenue from San Francisco, Los Angeles, and New York City.**  
 
-![City Sales](https://drive.google.com/file/d/1UuL-UCamqEEXZlYrxb_teac3FBmqQzeg/view?usp=sharing)  
+#### 🏙️ **Sales by City - Visualization 1**  
+![City Sales 1](https://drive.google.com/uc?export=view&id=1RIYAnaxSVUOisrWWXzuQTRenO8UEPSt2)  
 
-![City Map](https://drive.google.com/file/d/1RIYAnaxSVUOisrWWXzuQTRenO8UEPSt2/view?usp=sharing)
+#### 🏙️ **Sales by City - Visualization 2**  
+![City Sales 2](https://drive.google.com/uc?export=view&id=1UuL-UCamqEEXZlYrxb_teac3FBmqQzeg)  
 
 ---
 
