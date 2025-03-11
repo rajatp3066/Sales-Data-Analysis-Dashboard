@@ -62,7 +62,9 @@ The dataset includes sales transaction records with the following key fields:
 🌍 **Highest revenue from San Francisco, Los Angeles, and New York City.**  
 
 ![City Sales](https://drive.google.com/file/d/1UuL-UCamqEEXZlYrxb_teac3FBmqQzeg/view?usp=sharing)  
+
 ![City Map](https://drive.google.com/file/d/1RIYAnaxSVUOisrWWXzuQTRenO8UEPSt2/view?usp=sharing)
+
 ---
 
 ## 🛠 Tools & Technologies Used  
