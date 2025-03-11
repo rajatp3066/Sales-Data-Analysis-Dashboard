@@ -48,10 +48,11 @@ The dataset includes sales transaction records with the following key fields:
 ✔ **Total Orders:** 185.95K  
 ✔ **Total Products Sold:** 19  
 
-### 📌 **Sales Trends Over Time**  
-📈 **Monthly sales performance** visualized through trend analysis.  
+### 📌 Sales Trend Over Time  
+📈 **Monthly sales performance visualized through trend analysis.**  
 
-![Sales Trend](images/sales_trend.png)  
+![Sales Trend](https://drive.google.com/uc?export=view&id=1oy-IzI-h0BI-lwOYhBb8dBgfU3D5aPSq)
+
 
 ### 📌 **Top 7 Products by Sales**  
 🔹 **Best-selling products:** MacBook Pro, iPhone, ThinkPad Laptop, Google Pixel, 4K Monitors.  
